@@ -1,3 +1,4 @@
+#уровень C первое задание 
 import tkinter as tk
 
 def print_direction(event):
