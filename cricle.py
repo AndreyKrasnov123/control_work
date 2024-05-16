@@ -1,3 +1,4 @@
+# уроыень С второе задание
 import tkinter as tk
 
 def move_circle(event):
